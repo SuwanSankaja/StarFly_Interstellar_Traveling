@@ -1,7 +1,7 @@
 <h1 align="center">StarFly Interstellar Traveling Agent</h1>
 <p align="center">
   
-  <img src="https://github.com/SuwanSankaja/Portfolio/assets/86839778/88187251-7de7-4a54-9124-427ff4cfd429" width="300" height="600" align="center">
+  <img src="https://github.com/SuwanSankaja/Portfolio/assets/86839778/f6ed8fde-a7c3-4652-a4b1-ed55f2a6a7fc" width="300" height="600" align="center">
 </p>
 
 
